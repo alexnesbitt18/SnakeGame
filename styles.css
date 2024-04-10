@@ -7,7 +7,8 @@ body {
     font-family: "VT323", monospace;
 }
 
-body, .snake {
+body, 
+.snake {
     background-color: #414141;
 }
 
@@ -57,7 +58,8 @@ body, .snake {
     color: #abb78a;
 }
 
-#score, #highScore {
+#score, 
+#highScore {
     font-size: 40px;
     font-weight: bolder;
     margin: 10px 0;
@@ -68,7 +70,8 @@ body, .snake {
     display: none;
 }
 
-.game-border-3, #logo {
+.game-border-3, 
+#logo {
     background-color: #c4cfa3;
 }
 
